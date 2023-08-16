@@ -216,7 +216,7 @@ def project_details(project_id):
             "code_description": "Using CSS, HTML, JavaScript, and ReactJS, I was able to format all the pages so they were visually appealing and had the effects that we wanted to implement. For the homepage, I used disappearing text with different hooks that added and then removed the animate class so that the visibility of the text components changed as you scroll. This effect was also applied to the recycle, transportation, and why me pages. For the functional search bar, we implemented this by parsing through a .json file regardless of the letter casing inputted. Finally, the filter feature was created by making an array in JavaScript, which was then passed through a function which was then used as a prop.",
             "github_description": "This link has all the code for the website: ",
             "code_link": "https://github.com/phariharan818/hackathon-1",
-            "website_url": "https://main--tubular-pithivier-f6c27a.netlify.app/",
+            "website_url": "https://sustainify.netlify.app/",
             "code_urls" : [
                 "img/scode1.png",
                 "img/scode2.png",
